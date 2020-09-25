@@ -1,0 +1,11 @@
+E:\Practice\WindowsForm\ReportingTool\bin\Debug\ReportingTool.exe.config
+E:\Practice\WindowsForm\ReportingTool\bin\Debug\ReportingTool.exe
+E:\Practice\WindowsForm\ReportingTool\bin\Debug\ReportingTool.pdb
+E:\Practice\WindowsForm\ReportingTool\obj\Debug\ReportingTool.Properties.Resources.resources
+E:\Practice\WindowsForm\ReportingTool\obj\Debug\ReportingTool.csproj.GenerateResource.cache
+E:\Practice\WindowsForm\ReportingTool\obj\Debug\ReportingTool.csproj.CoreCompileInputs.cache
+E:\Practice\WindowsForm\ReportingTool\obj\Debug\ReportingTool.exe
+E:\Practice\WindowsForm\ReportingTool\obj\Debug\ReportingTool.pdb
+E:\Practice\WindowsForm\ReportingTool\obj\Debug\ReportingTool.ManageProduct.resources
+E:\Practice\WindowsForm\ReportingTool\obj\Debug\ReportingTool.csprojAssemblyReference.cache
+E:\Practice\WindowsForm\ReportingTool\obj\Debug\ReportingTool.SplashScreen.resources
